@@ -5,18 +5,12 @@
 
 Before deploying this application, I performed basic testing on the Python-based counter API. The application increments a counter with each API hit to the following endpoint:
 
-bash
-
-CopyEdit
 
 `GET /counter` 
 
 Expected behavior:  
 Each request should return the incremented counter value, like:
 
-yaml
-
-CopyEdit
 
 `Counter value:  1  Counter value:  2  Counter value:  3  ...` 
 
@@ -26,17 +20,11 @@ CopyEdit
 
 During testing via:
 
-bash
-
-CopyEdit
 
 `curl localhost:8080/counter` 
 
 I observed **inconsistent behavior**. Every second (even-numbered) request resulted in a `500 Internal Server Error`. Example output:
 
-bash
-
-CopyEdit
 
 `$ curl localhost:8080/counter
 Counter value: 1
