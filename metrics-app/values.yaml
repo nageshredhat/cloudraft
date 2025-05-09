@@ -35,7 +35,7 @@ ingress:
   hosts:
     - host: chart-example.local
       paths:
-        - path: /
+        - path: /counter
           pathType: ImplementationSpecific
   tls: []
   #  - secretName: chart-example-tls
