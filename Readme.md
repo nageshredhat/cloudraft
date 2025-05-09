@@ -56,7 +56,7 @@ $ curl localhost:8080/counter
     
 -   Wrapped the call to `metrics.trigger_background_collection()` in a `try-except` block to gracefully handle any runtime errors.
     
-The fix ready file:
+The fix ready file `app.py`:
 ```
 from flask import Flask
 import threading
