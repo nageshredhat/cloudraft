@@ -1,4 +1,6 @@
-THE ARGO APP
+## Architecture diagram
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXebAFJ04ku9XHDW5z3c1Om_SPOe1Mr8eXTeKbEseq3RuYTiITJEAsaRe65vK2jBaYzK_u4hbF2HXsZJDSqFku0_QLANJFEX48Ixg6HCmog73fGU5AM5Y_RaO_iag9JVaQsRUoH6FA?key=vUvFrm-5SMd3IIP1U_FR1w)
+## THE ARGO APP
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdH0nGmdsYZs4Ri-l4rum1N4ydqEpFi6sttpC8LpfkkXH2IRe-_XAMfWIhvXB8lUnGJ60hsoxv6xPOHou6AgvEA3sFY4YXq9crmsWzQ67IUVXKzbW0citjnp_PcW61OBIGTBSyKvQ?key=vUvFrm-5SMd3IIP1U_FR1w)
 ## Testing Summary and Bug Fix
 
